@@ -228,6 +228,13 @@
 			  
 			  
 			  }
+			  .bottom_footer{
+				width: 100%;
+				clear: both;
+				height: 75px;
+				background-color: #474747;
+			  }
+			  
 			  #izzy{
   
 				  background-color: #e62739;
